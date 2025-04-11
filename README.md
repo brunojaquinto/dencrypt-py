@@ -17,6 +17,7 @@ python3 generate_key.py
 ```
 A file named key.key will be created.
 
+2. Run
 ```bash
 python3 dencrypt.py
 ```
