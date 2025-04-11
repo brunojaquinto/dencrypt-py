@@ -21,7 +21,7 @@ A file named key.key will be created.
 ```bash
 python3 dencrypt.py
 ```
-- Choose option
+- Choose the operation
 - Specify the file
 - The file will be saved with _e or _d suffix
 
